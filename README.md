@@ -1,1 +1,5 @@
 # toDoList
+
+HTML
+CSS
+JAVASCRIPT PURO
