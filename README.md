@@ -2,4 +2,4 @@
 
 HTML
 CSS
-JAVASCRIPT PURO
+Javascript 
